@@ -1,4 +1,4 @@
-# wbreklama
+# wbreklama-cms
 A project for advertising management based on React 16, React-Redux & Material-UI 4
 
 This is the very first version.
